@@ -11,4 +11,4 @@ print(f"a subtração é: {su}")
 print(f"a multiplicação é: {m}")
 print(f"a divisão é: {d}")
 
-#nesse codigo o usuario digite dois numeros. apos isso as contas são feitas isoladamentes em cada variavel e por fim seus resultados são impressos  
+#Pede dois números, calcula a soma, a subtração, a multiplicação e a divisão, e mostra os resultados.
