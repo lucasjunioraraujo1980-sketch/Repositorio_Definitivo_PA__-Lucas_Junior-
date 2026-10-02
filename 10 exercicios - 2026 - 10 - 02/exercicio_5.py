@@ -12,3 +12,5 @@ if a + b > c and a + c > b and b + c > a:
         print("Escaleno") 
 else:
     print("Os lados não formam um triângulo válido")
+
+#Pede três lados, verifica se eles formam um triângulo válido e classifica como equilátero, isósceles ou escaleno.
