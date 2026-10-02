@@ -6,3 +6,5 @@ for i in range (5):
         
 m = s / 5
 print(f"Média da turma: {m}")
+
+#Pede cinco notas, soma todas elas e divide o resultado por 5 para calcular a média da turma.
