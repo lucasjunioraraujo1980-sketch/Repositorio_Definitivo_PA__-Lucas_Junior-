@@ -13,3 +13,5 @@ if primo == False:
     print("Número não é primo") 
 else:
     print("Número É primo")
+
+#Pede um número maior que 1 e verifica se ele é divisível por algum número entre 2 e ele mesmo, sem contar o próprio número.
