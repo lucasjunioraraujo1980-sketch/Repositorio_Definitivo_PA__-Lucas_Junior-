@@ -14,3 +14,5 @@ for i in range(n - 1):
             v[j + 1] = t
 
 print(f"Vetor ordenado: {v} ")
+
+#Pede vários números, compara os valores vizinhos e troca suas posições quando necessário, deixando a lista em ordem crescente.
