@@ -1,4 +1,4 @@
-# Repositorio_Defonitivo_PA
+# Repositorio_Definitivo_PA
 Repositorio definitivo para entregar as atividades de PA
 
 
